@@ -1,6 +1,6 @@
 # ShaguCopy
 
-Adds a text overlay to your chatframes, allowing you to copy text that has been written to it. Please note that this addons was just a small experiment and far away from being finished, people reported that they got bad latencys due to the chat duplication inside the combatlog. If you really want me to polish this addon, feel free to add an issue to the issue tracker.
+Adds a text overlay to your chatframes, allowing you to copy text that has been written to it. Please note that this addon only was a small experiment and is far away from being finished. Some people already reported that they got bad performance, due to the chat duplication inside the combatlog. If you really want me to polish this addon, feel free to add an issue to the issue tracker and I will take care of it.
 
 ![preview](https://i.imgur.com/b2izwIx.png)
 
