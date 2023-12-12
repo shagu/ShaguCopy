@@ -74,11 +74,11 @@ for i=1,NUM_CHAT_WINDOWS do
     this:SetAlpha(.25)
   end)
 
-  ChatFrame.AddMessage = function (frame, text, ...)
+  ChatFrame.AddMessage = function (frame, text, r, g, b, id)
     if text then
       frame.scrollframe.chatCopy:SetText(frame.scrollframe.chatCopy:GetText() .. "\n|cffffffff" .. text)
     end
-      HookAddMessage(frame, text, unpack(arg))
+      HookAddMessage(frame, text, r, g, b, id)
     end
   end
 end)
